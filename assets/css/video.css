@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.demo {
+  text-align: center;
+  background-color: #f0f0f0;
+  padding: 20px;
+  border-radius: 10px;
+
+}
+
+.Video {
+  margin-top: 20px;
+}
+
+.Video-title {
+  color: brown;
+  font-weight: bold;
+  margin-top: 20px;
+
+}
